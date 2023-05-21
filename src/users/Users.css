@@ -1,0 +1,47 @@
+
+.body{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color: gray;
+    
+    
+}
+
+.user{
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+    background-color: darkgray;
+    border-bottom: 1px solid black;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: 80px;
+    
+}
+
+
+.p{
+    color: white;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.d{
+    color: whitesmoke;
+}
+.active{
+    color: rgb(18, 191, 32);
+    
+}
+.active:hover{
+    cursor: pointer;
+}
+.disactive:hover{
+    cursor: pointer;
+}
+img{
+    width: 50px;
+    height: 50px;
+}

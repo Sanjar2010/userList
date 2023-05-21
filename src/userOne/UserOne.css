@@ -1,0 +1,20 @@
+.userOne{
+    height: 1000px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    column-gap: 20px;
+}
+
+.image{
+    width: 200px;
+    height: 200px;
+}
+
+.first-sub{
+    width: 250px;
+    color: blue;
+    font-size: 20px;
+    font-weight: 500;
+}
